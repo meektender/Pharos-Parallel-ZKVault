@@ -1,3 +1,5 @@
+![Pharos Atlantic](https://img.shields.io/badge/Network-Pharos_Atlantic-blue?style=for-the-badge&logo=blockchaindotcom)
+![Status](https://img.shields.io/badge/Status-Verified_on_PharosScan-green?style=for-the-badge)
 # Pharos Parallel ZK Vault
 **Author:** @Meektender  
 **Status:** Verified on Pharos Atlantic Testnet
